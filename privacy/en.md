@@ -1,15 +1,15 @@
 ---
-title: SuperJogging Privacy Policy
+title: Jogbeat Privacy Policy
 lang: en
 ---
 
-# SuperJogging Privacy Policy
+# Jogbeat Privacy Policy
 
 [日本語](ja) · [繁體中文](zh-Hant) · [简体中文](zh-Hans)
 
 Effective date: October 20, 2026
 
-SuperJogging ("the app") is developed by Nex. Our principle is simple: **your running and health data stays on your device.** We have no servers of our own, and we never sell, rent or share your personal data.
+Jogbeat ("the app") is developed by Nex. Our principle is simple: **your running and health data stays on your device.** We have no servers of our own, and we never sell, rent or share your personal data.
 
 ## 1. What data the app handles
 

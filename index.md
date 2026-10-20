@@ -1,8 +1,8 @@
 ---
-title: SuperJogging
+title: 跑拍 Jogbeat
 ---
 
-# 超慢跑 · SuperJogging · ゆっくりジョグ
+# 跑拍 · Jogbeat · ゆっくりジョグ
 
 一款跟著節拍輕鬆超慢跑的 iPhone 與 Apple Watch App。
 
