@@ -31,7 +31,7 @@ With your permission, the app saves each run to the Health app (the workout and 
 
 ## 3. Ads (free version only)
 
-The free version shows Google AdMob ads on the run summary. After you buy Pro, no ads are loaded.
+The free version shows Google AdMob ads on the run summary and at the bottom of the history list (never during a run). After you buy Pro, no ads are loaded.
 - After your first completed run, the app asks for ad consent (Google UMP, where required in your region), then iOS asks whether you allow tracking (App Tracking Transparency).
 - If you allow tracking, Google may use your device's advertising identifier (IDFA) to show more relevant ads; otherwise only non-personalized ads are shown.
 - Google's ad SDK may collect device information, approximate location (from IP address), ad interactions and diagnostics, as described by Google.

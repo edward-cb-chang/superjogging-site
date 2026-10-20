@@ -31,7 +31,7 @@ lang: zh-Hant
 
 ## 3. 廣告(只在免費版)
 
-免費版在跑步完成頁顯示 Google AdMob 廣告;購買 Pro 後不再載入任何廣告。
+免費版在跑步完成頁與紀錄頁底部顯示 Google AdMob 廣告(跑步中不顯示);購買 Pro 後不再載入任何廣告。
 - 第一次完成跑步時,App 會先詢問廣告同意(Google UMP,依你所在地區),再由 iOS 詢問是否允許追蹤(App Tracking Transparency)。
 - 你允許追蹤時,Google 可能使用裝置的廣告識別碼(IDFA)顯示較相關的廣告;不允許時只顯示非個人化廣告。
 - Google 的廣告 SDK 可能收集裝置資訊、粗略位置(依 IP 推估)、廣告互動與診斷資料,用途由 Google 說明。
